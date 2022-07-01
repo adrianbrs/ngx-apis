@@ -1,0 +1,41 @@
+{
+  "name": "ngx-apis",
+  "description": "Angular library to better build REST API services",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "Adrian Cerbaro",
+    "email": "contato@cerbaro.dev",
+    "url": "https://cerbaro.dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrianbrs/ngx-apis.git"
+  },
+  "keywords": [
+    "angular",
+    "angular2",
+    "angular-13",
+    "ivy",
+    "ngx",
+    "ng2",
+    "ng",
+    "service",
+    "angular-service",
+    "api",
+    "apis",
+    "rest",
+    "RESTful"
+  ],
+  "bugs": {
+    "url": "https://github.com/adrianbrs/ngx-apis/issues",
+    "email": "contato@cerbaro.dev"
+  },
+  "peerDependencies": {
+    "@angular/common": "^13.3.0",
+    "@angular/core": "^13.3.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
